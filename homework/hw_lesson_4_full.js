@@ -413,6 +413,8 @@
 // console.log(myFunck([0, 0, 1, 0]));
 
 
+
+
 // - Дано список імен.
 // let n1 = '    Harry       Potter      ';
 // let n2 = '    Ron       Whisley      ';
@@ -672,41 +674,6 @@
 // }
 //
 // addListUsers(users, 'list');
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
